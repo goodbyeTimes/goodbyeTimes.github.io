@@ -1,15 +1,13 @@
 ---
 layout:     post
-title:      hello world！
-subtitle:   hello world！
-date:       2018/10/20
+title:      hello world
+subtitle:   
+date:       2018-10-20
 author:     再见地球人
 header-img: 
-catalog: 	 true
+catalog: true
 tags:
-        
-
-
+   
 ---
-#前言
+
 终于搭建了自己的博客，从无到有，也挺有意思，希望能记录一些东西，让我不再忘记。
